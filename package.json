@@ -11,8 +11,11 @@
 	"license": "ISC",
 	"description": "",
 	"dependencies": {
+		"@wordpress/components": "^22.1.0",
 		"@wordpress/data": "^7.6.0",
+		"@wordpress/edit-post": "^6.19.0",
 		"@wordpress/i18n": "^4.22.0",
+		"@wordpress/plugins": "^4.20.0",
 		"@wordpress/scripts": "^24.6.0"
 	}
 }
